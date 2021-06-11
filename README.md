@@ -5,9 +5,9 @@
 ## About the project
 
 This is an educational project, based on "Web Design for Everybody: Basics of Web Development & Coding" specialization on "Coursera", 
-which can be found at https://www.coursera.org/specializations/web-design. 
+which can be found at www.coursera.org/specializations/web-design. 
 The main concept of this project is pretty simple - It's just my personal website, where I can publish information about my learning progress and about new projects.\
-Website is hosted at https://antonnovak.000webhostapp.com/index.html, so feel free to check it out.
+Website is hosted at www.novak-anton.web.app, so feel free to check it out.
 
 ## Project technologies
 
