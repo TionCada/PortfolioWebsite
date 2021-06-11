@@ -17,6 +17,6 @@ Website is hosted at https://novak-anton.web.app, so feel free to check it out.
 
 ## How to start the project locally
 
-Clone or download the project from https://github.com/novak-a/PortfolioWebsite
+Clone or download the project from https://github.com/TionCada/PortfolioWebsite
 
 - open index.html file in browser
